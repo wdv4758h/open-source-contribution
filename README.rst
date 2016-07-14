@@ -36,6 +36,13 @@ My Application
     Travis Encrypt in Rust
     -      --         ---
 
+* `clapcomp <https://github.com/wdv4758h/clapcomp>`_ - clap completion generator as command
+
+::
+
+    clap completion
+    ---- ----
+
 
 
 My Library
