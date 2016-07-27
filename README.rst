@@ -43,6 +43,13 @@ My Application
     clap completion
     ---- ----
 
+* `cargo-arch <https://github.com/wdv4758h/cargo-arch>`_ - cargo subcommand to generate Arch Linux package
+
+::
+
+    Cargo - Arch Linux
+    -----   ----
+
 
 
 My Library
