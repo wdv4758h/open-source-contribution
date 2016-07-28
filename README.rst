@@ -60,6 +60,8 @@ My Library
 Improve Other Projects
 ========================================
 
+* [clap-rs] `feat(Completions): one can generate a basic fish completions script at compile time <https://github.com/kbknapp/clap-rs/commit/1979d2f2f3216e57d02a97e624a8a8f6cf867ed9>`_
+
 
 
 Providing Idea
