@@ -63,6 +63,7 @@ Improve Other Projects
 * [clap-rs] `feat(Completions): one can generate a basic fish completions script at compile time <https://github.com/kbknapp/clap-rs/commit/1979d2f2f3216e57d02a97e624a8a8f6cf867ed9>`_
 * [cargo-outdated] `chore: use LTO (Link Time Optimization) <https://github.com/kbknapp/cargo-outdated/commit/ce2921377a57612488d0e44bb50f600c98a2042e>`_
 * [rust-sdl2_image] `Update dependencies <https://github.com/xsleonard/rust-sdl2_image/commit/b8a88af46f6df0e4be346d6711c34454729a0f37>`_
+* [rust] `Update E0133 to new format <https://github.com/rust-lang/rust/commit/e7065b7f92c777b70065b51f930fa494600cd275>`_
 
 
 
