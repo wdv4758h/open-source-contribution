@@ -65,6 +65,7 @@ Improve Other Projects
 * [rust-sdl2_image] `Update dependencies <https://github.com/xsleonard/rust-sdl2_image/commit/b8a88af46f6df0e4be346d6711c34454729a0f37>`_
 * [rust] `Update E0133 to new format <https://github.com/rust-lang/rust/commit/e7065b7f92c777b70065b51f930fa494600cd275>`_
 * [rust] `Update E0138 to new format <https://github.com/rust-lang/rust/commit/92f7e85b303b67c2e412275ba663bb811388f9a4>`_
+* [rust] `Fix label messages for E0133 <https://github.com/rust-lang/rust/commit/2128d31a41346c726d2271845d92533ccae882e7>`_
 
 
 
