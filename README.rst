@@ -68,6 +68,7 @@ Improve Other Projects
 * [rust] `Fix label messages for E0133 <https://github.com/rust-lang/rust/commit/2128d31a41346c726d2271845d92533ccae882e7>`_
 * [rust-rocksdb] `Fix FreeBSD build <https://github.com/ethcore/rust-rocksdb/commit/a10cd68712d639a64a07dcbe04f7547e733dbed6>`_
 * [nanomsg.rs] `Don't dynamic link to libnanomsg when using 'bundled' feature <https://github.com/thehydroimpulse/nanomsg.rs/commit/c1e15a774c6a5750215f503c8e59077db11642b3>`_
+* [parity] `Fix open on FreeBSD <https://github.com/ethcore/parity/commit/869803f60e67e19ef5dd7f15aa3cf6e4e48c6b84>`_
 
 
 
