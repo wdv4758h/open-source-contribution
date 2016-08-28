@@ -69,6 +69,9 @@ Improve Other Projects
 * [rust-rocksdb] `Fix FreeBSD build <https://github.com/ethcore/rust-rocksdb/commit/a10cd68712d639a64a07dcbe04f7547e733dbed6>`_
 * [nanomsg.rs] `Don't dynamic link to libnanomsg when using 'bundled' feature <https://github.com/thehydroimpulse/nanomsg.rs/commit/c1e15a774c6a5750215f503c8e59077db11642b3>`_
 * [parity] `Fix open on FreeBSD <https://github.com/ethcore/parity/commit/869803f60e67e19ef5dd7f15aa3cf6e4e48c6b84>`_
+* [servo] `Solved wrong referrer policy in cors_preflight_fetch <https://github.com/servo/servo/commit/3c93ced76adbe7bea6c8b4b3409525ba055d2af1>`_
+* [servo] `Remove unnecessary clone from ServiceWorkerManager::prepare_activation <https://github.com/servo/servo/commit/10cf2ee11a111133313e679b1485bcedad4c3df0>`_
+* [servo] `Added using real pipeline ID value <https://github.com/servo/servo/commit/f189a866a78a6c1eb6c5e1cf0ace5dc14004b441>`_
 
 
 
