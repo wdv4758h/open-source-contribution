@@ -73,6 +73,7 @@ Improve Other Projects
 * [servo] `Remove unnecessary clone from ServiceWorkerManager::prepare_activation <https://github.com/servo/servo/commit/10cf2ee11a111133313e679b1485bcedad4c3df0>`_
 * [servo] `Added using real pipeline ID value <https://github.com/servo/servo/commit/f189a866a78a6c1eb6c5e1cf0ace5dc14004b441>`_
 * [rust] `Change 'rustc::plugin' to 'rustc_plugin' in doc comment <https://github.com/rust-lang/rust/commit/3f7432a39926e555f47725f27c48c79b9b6e4897>`_
+* [clap-rs] `fix(Completions): fish completions for nested subcommands <https://github.com/kbknapp/clap-rs/commit/a61eaf8aade76cfe90ccc0f7125751ebf60e3254>`_
 
 
 
