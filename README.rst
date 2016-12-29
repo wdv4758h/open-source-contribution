@@ -50,6 +50,8 @@ My Application
     Cargo - Arch Linux
     -----   ----
 
+* `renfeed <https://github.com/wdv4758h/renfeed>`_ - collect RSS/Atom into one site
+
 
 
 My Library
