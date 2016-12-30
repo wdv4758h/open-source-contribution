@@ -79,6 +79,7 @@ from old to new:
 * [rust] `Change 'rustc::plugin' to 'rustc_plugin' in doc comment <https://github.com/rust-lang/rust/commit/3f7432a39926e555f47725f27c48c79b9b6e4897>`_
 * [clap-rs] `fix(Completions): fish completions for nested subcommands <https://github.com/kbknapp/clap-rs/commit/a61eaf8aade76cfe90ccc0f7125751ebf60e3254>`_
 * [tera] `Fix API docs URL <https://github.com/Keats/tera/commit/80f326c16633beb40407fb5221f86c5941563b40>`_
+* [tera] `Save a little clone <https://github.com/Keats/tera/commit/dcd0199c701b7a1b2842bffe2918bf04e426181a>`_
 
 
 
