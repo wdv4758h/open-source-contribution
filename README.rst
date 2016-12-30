@@ -80,6 +80,7 @@ from old to new:
 * [clap-rs] `fix(Completions): fish completions for nested subcommands <https://github.com/kbknapp/clap-rs/commit/a61eaf8aade76cfe90ccc0f7125751ebf60e3254>`_
 * [tera] `Fix API docs URL <https://github.com/Keats/tera/commit/80f326c16633beb40407fb5221f86c5941563b40>`_
 * [tera] `Save a little clone <https://github.com/Keats/tera/commit/dcd0199c701b7a1b2842bffe2918bf04e426181a>`_
+* [tera] `Save a little clone, again <https://github.com/Keats/tera/commit/e1099bb02125d87dc37190c82e33f6b8690a1a05>`_
 
 
 
