@@ -16,46 +16,17 @@ My Application
 
 
 * `wesers <https://github.com/wdv4758h/wesers>`_ - a simple HTTP/HTTPS server in Rust
-
-::
-
-    Web Server in Rust
-    --  --        - -
-
-* [Early] `rimger <https://github.com/wdv4758h/rimger>`_ - a simple image viewer in Rust
-
-::
-
-    Rust Image Viewer
-    -    -- -      --
-
 * `tenrus <https://github.com/wdv4758h/tenrus>`_ - "travis encrypt" in Rust
-
-::
-
-    Travis Encrypt in Rust
-    -      --         ---
-
 * `clapcomp <https://github.com/wdv4758h/clapcomp>`_ - clap completion generator as command
-
-::
-
-    clap completion
-    ---- ----
-
 * `cargo-arch <https://github.com/wdv4758h/cargo-arch>`_ - cargo subcommand to generate Arch Linux package
-
-::
-
-    Cargo - Arch Linux
-    -----   ----
-
 * `renfeed <https://github.com/wdv4758h/renfeed>`_ - collect RSS/Atom into one site
 
 
 
 My Library
 ========================================
+
+* `jwconv <https://github.com/wdv4758h/jwconv>`_ - Japanese Writing System Converter
 
 
 
@@ -82,13 +53,6 @@ from old to new:
 * [tera] `Save a little clone <https://github.com/Keats/tera/commit/dcd0199c701b7a1b2842bffe2918bf04e426181a>`_
 * [tera] `Save a little clone, again <https://github.com/Keats/tera/commit/e1099bb02125d87dc37190c82e33f6b8690a1a05>`_
 * [rust.vim] `Support i128 and u128 <https://github.com/rust-lang/rust.vim/commit/cec3ad27a6702cf34b08cab4512d471cb95ff1ad>`_
-
-
-
-Providing Idea
-========================================
-
-If you want to suggest a project idea, just file an ``issue`` !
 
 
 
