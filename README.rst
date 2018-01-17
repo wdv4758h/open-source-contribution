@@ -55,6 +55,7 @@ from old to new:
 * [tera] `Save a little clone, again <https://github.com/Keats/tera/commit/e1099bb02125d87dc37190c82e33f6b8690a1a05>`_
 * [rust.vim] `Support i128 and u128 <https://github.com/rust-lang/rust.vim/commit/cec3ad27a6702cf34b08cab4512d471cb95ff1ad>`_
 * [tagbar] `Add Rust support <https://github.com/majutsushi/tagbar/commit/59ea6d656a0b5190f6f8f3fff44197d752782cc6>`_
+* [strsim] `Improve Levenshtein performance <https://github.com/dguo/strsim-rs/commit/6ca79b06ee9a8cada1a608d76b65f89cff2498a4>`_
 
 
 
