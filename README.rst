@@ -1,10 +1,8 @@
 ========================================
-Project Infinity - Rust
+Contribute to Rust
 ========================================
 
-The best way to learn a language is making tools ! Practice makes perfect !
-
-I'm learning Rust, so I write projects in Rust.
+The best way to learn a language is to contribute! Practice makes perfect!
 
 
 .. contents:: Table of Contents
@@ -57,6 +55,13 @@ from old to new:
 * [rust.vim] `Support i128 and u128 <https://github.com/rust-lang/rust.vim/commit/cec3ad27a6702cf34b08cab4512d471cb95ff1ad>`_
 * [tagbar] `Add Rust support <https://github.com/majutsushi/tagbar/commit/59ea6d656a0b5190f6f8f3fff44197d752782cc6>`_
 * [strsim] `Improve Levenshtein performance <https://github.com/dguo/strsim-rs/commit/6ca79b06ee9a8cada1a608d76b65f89cff2498a4>`_
+
+
+
+Feedback
+========================================
+
+* [zola] `More friendly PageFrontMatter deserialize error messages <https://github.com/getzola/zola/issues/1313>`_
 
 
 
