@@ -1,30 +1,11 @@
 ========================================
-Contribute to Rust
+Open Source Contribution
 ========================================
 
-The best way to learn a language is to contribute! Practice makes perfect!
+The best way to learn is to contribute! Practice makes perfect!
 
 
 .. contents:: Table of Contents
-
-
-
-My Application
-========================================
-
-
-* `wesers <https://github.com/wdv4758h/wesers>`_ - a simple HTTP/HTTPS server in Rust
-* `tenrus <https://github.com/wdv4758h/tenrus>`_ - "travis encrypt" in Rust
-* `clapcomp <https://github.com/wdv4758h/clapcomp>`_ - clap completion generator as command
-* `cargo-arch <https://github.com/wdv4758h/cargo-arch>`_ - cargo subcommand to generate Arch Linux package
-* `renfeed <https://github.com/wdv4758h/renfeed>`_ - collect RSS/Atom into one site
-
-
-
-My Library
-========================================
-
-* `jwconv <https://github.com/wdv4758h/jwconv>`_ - Japanese Writing System Converter
 
 
 
@@ -33,6 +14,8 @@ Improve Other Projects
 
 from new to old:
 
+* [nats-io/k8s] `Fix WebSocket TLS ConfigMap template <https://github.com/nats-io/k8s/pull/281>`_
+* [nats-io/k8s] `Support setting resources for metrics exporter <https://github.com/nats-io/k8s/pull/235>`_
 * [zola] `Fix "serve" subcommand for URL encoded static files <https://github.com/getzola/zola/pull/1351>`_
 * [zola] `Support embed YouTube playlist <https://github.com/getzola/zola/pull/1342>`_
 * [strsim] `Improve Levenshtein performance <https://github.com/dguo/strsim-rs/commit/6ca79b06ee9a8cada1a608d76b65f89cff2498a4>`_
@@ -73,4 +56,4 @@ from new to old:
 Join Me
 ========================================
 
-Contribute more to your favorite language to make its ecosystem better!
+Contribute more to Open Source community to make it better!
