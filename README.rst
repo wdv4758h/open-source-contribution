@@ -14,6 +14,7 @@ Improve Other Projects
 
 from new to old:
 
+* [actix/actix-extra] `update actix-web dependencies to v4 beta.10 <https://github.com/actix/actix-extras/commit/545873b5b23dab6ea26f9a084281410b8c2786ef>`_
 * [rust-web-framework-comparison] `Update hyper info and remove h2 (it's under hyperium organization now) <https://github.com/flosse/rust-web-framework-comparison/commit/c384fa122d9e4386302b1991b6614c88f3184773>`_
 * [nats-io/k8s] `Fix WebSocket TLS ConfigMap template <https://github.com/nats-io/k8s/pull/281>`_
 * [nats-io/k8s] `Support setting resources for metrics exporter <https://github.com/nats-io/k8s/pull/235>`_
