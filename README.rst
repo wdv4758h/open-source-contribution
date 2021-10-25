@@ -14,7 +14,8 @@ Improve Other Projects
 
 from new to old:
 
-* [webrtc.rs] `re-export rtcp/rtp/interceptor/data/media <https://github.com/webrtc-rs/webrtc/pull/125>`_
+* [webrtc-rs/examples] `update to webrtc 0.2.2 and use re-export <https://github.com/webrtc-rs/examples/pull/2>`_
+* [webrtc-rs/webrtc] `re-export rtcp/rtp/interceptor/data/media <https://github.com/webrtc-rs/webrtc/pull/125>`_
 * [actix/actix-extra] `update actix-web dependencies to v4 beta.10 <https://github.com/actix/actix-extras/commit/545873b5b23dab6ea26f9a084281410b8c2786ef>`_
 * [rust-web-framework-comparison] `Update hyper info and remove h2 (it's under hyperium organization now) <https://github.com/flosse/rust-web-framework-comparison/commit/c384fa122d9e4386302b1991b6614c88f3184773>`_
 * [nats-io/k8s] `Fix WebSocket TLS ConfigMap template <https://github.com/nats-io/k8s/pull/281>`_
