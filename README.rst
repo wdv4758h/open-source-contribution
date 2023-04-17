@@ -14,6 +14,7 @@ Improve Other Projects
 
 from new to old:
 
+* [MetaMask/metamask-mobile] `Fix NFT transfer with big token id <https://github.com/MetaMask/metamask-mobile/pull/4636>`_
 * [webrtc-rs/examples] `update to webrtc 0.2.2 and use re-export <https://github.com/webrtc-rs/examples/pull/2>`_
 * [webrtc-rs/webrtc] `re-export rtcp/rtp/interceptor/data/media <https://github.com/webrtc-rs/webrtc/pull/125>`_
 * [actix/actix-extra] `update actix-web dependencies to v4 beta.10 <https://github.com/actix/actix-extras/commit/545873b5b23dab6ea26f9a084281410b8c2786ef>`_
@@ -52,6 +53,8 @@ Feedback
 
 from new to old:
 
+* [godot] `4.0 beta 6 crash often with GPUParticles3D <https://github.com/godotengine/godot/issues/69156>`_
+* [godot] `3 to 4 converter: raise -> move_to_front <https://github.com/godotengine/godot/issues/68357>`_
 * [procs] comments in `is it possible to list thread list in tree mode? <https://github.com/dalance/procs/issues/30#issuecomment-765880858>`_
 * [zola] `More friendly PageFrontMatter deserialize error messages <https://github.com/getzola/zola/issues/1313>`_
 
